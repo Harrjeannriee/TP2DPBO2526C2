@@ -1,0 +1,5 @@
+Mochi|2|Betina|CAT001|Andina|Sudah|Persia|Putih|3.5
+Milo|3|Jantan|CAT002|Raka|Sudah|British Shorthair|Abu-abu|4.2
+Luna|1|Betina|CAT003|Nadia|Belum|Anggora|Putih|2.8
+Oyen|4|Jantan|CAT004|Dimas|Sudah|Domestic|Oranye|5.0
+Nala|2|Betina|CAT005|Sinta|Sudah|Siamese|Cokelat|3.1
