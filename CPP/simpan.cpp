@@ -17,6 +17,11 @@ vector<Kucing> bacaData(){      //baca data.txt dan mengembalikan vector yang be
     // ambil satu baris dari file
     while(getline(file, baris))
     {
+        if(baris.empty())
+        {
+            continue;
+        }
+        
         stringstream ss(baris);
 
         // jadikan semua string dulu
